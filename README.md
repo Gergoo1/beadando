@@ -157,13 +157,13 @@
 </a>
 
     <h2>Videókártya</h2>
-    <a href="https://www.arukereso.hu/videokartya-c3142/asus/geforce-rtx-3060-ti-8gb-gddr6-256bit-lhr-dual-rtx3060ti-o8g-v2-p685992207/">
-        Videókártya <br>
+    <a href="https://www.arukereso.hu/videokartya-c3142/asus/geforce-rtx-3060-ti-8gb-gddr6-256bit-lhr-dual-rtx3060ti-o8g-v2-p685992207/"> <p></p>
+        Videókártya 
         
         
 <img src="https://cdn.mos.cms.futurecdn.net/sAQz3aBTdWyxoVZAXTQS7E-1200-80.jpg.webp" width="850" height="600">
 </a>
-</a href="www.facebook.com">
+
 
 <h1><p style="color: darkcyan;">Tápegység</p></h1>
 <h4><p style="color:green;">FOGALMA: A tápegység olyan készülék, amely az elektromos hálózat energiáját a rácsatlakoztatni kívánt eszköz által megkívánt feszültségűre alakítja.</p></h4>
